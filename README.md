@@ -1,1 +1,1 @@
-# WEDE-Part-3
+From Part 2, Ive added 4 new pictures to my home page and linked JS to all my pages and also Optimised For SEO and integrated External Services such as Google Maps. I also embeded a YouTube Video of Constitutional Hill and fixed My CSS code to be mobile friendly and added robots.txt, sitemap.xml and a url structure 
